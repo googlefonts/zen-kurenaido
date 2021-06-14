@@ -1,5 +1,5 @@
 # Zen Fonts Kurenaido
-![Kurenaido](Images/kurenaido.png)
+![Kurenaido](images/kurenaido.png)
 
 ## The story of Zen Fonts
 
