@@ -1,6 +1,7 @@
 # Zen Fonts Kurenaido
 
 ![Kurenaido](images/kurenaido.png)
+Zen Kurenaido is a new style of Japanese font with handwritten taste. Omitted the brush-like elements from the design and left only with the bone of the letter, resulting in a impression of ballpoint handwritten letters.
 
 ## The story of Zen Fonts
 
